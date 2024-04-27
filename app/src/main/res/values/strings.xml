@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cek Berat Badan Ideal</string>
+    <string name="cek_berat_badan_ideal">Cek Berat Badan Ideal</string>
+    <string name="berat_badan_kg">Berat Badan (kg)</string>
+</resources>
